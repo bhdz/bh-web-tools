@@ -10,11 +10,11 @@ Welcome .to: My Web tools::
   *)) Python glue .for: Popular Databases *.connect("bh-*").db("sql") !and/or 
       KeyValue Stores *.connect("kv");;
       
-  *key*)) **value;;
+  *key*)) *value;;
   
-  *ends)) Here::*;;
+  *ends)) **Here::*;;
 
-# Motto:: Give Power .to: Javascript::* ->> Users::*
+# Motto:: Give Power .to: Javascript:: **->> Users::**
 
 PS:
 
