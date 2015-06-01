@@ -7,8 +7,8 @@ Welcome .to: My Web tools::
 
   *)) Node.js C/C++ module for ... something;;
   
-  *)) Python glue .for: Popular Databases *.connect("bh-*").db("sql") !and/or 
-      KeyValue Stores *.connect("kv");;
+  **)) Python glue .for: Popular Databases *.connect("bh-*").db("sql") !and/or 
+      *KeyValue Stores* **.connect("kv");; **
       
   *key*)) *value;;
   
