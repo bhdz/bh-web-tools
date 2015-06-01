@@ -1,0 +1,8 @@
+node.connect("bh").db("mysql")
+node.connect("bh").kv("berkeley-db")
+node.connect("hdd").db("sql")
+node.connect("hdd").kv("sophia")
+node.connect("bh").kv("...so on...")
+node.connect("bh").templates("@mytemplate")
+...
+node.connect.something:: Javascript ->> ?
